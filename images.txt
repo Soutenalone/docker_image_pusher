@@ -3,4 +3,4 @@ mysql:8.0.43
 nginx:stable-alpine3.21
 eclipse-temurin:17-jre-alpine
 redis:5.0.14
-ankane/pgvector:16-alpine
+pgvector/pgvector:16-alpine
