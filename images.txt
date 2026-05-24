@@ -4,3 +4,4 @@ nginx:stable-alpine3.21
 eclipse-temurin:17-jre-alpine
 redis:5.0.14
 postgres:16.4-alpine
+pgvector/pgvector:pg16
